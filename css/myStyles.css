@@ -1,0 +1,48 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+
+
+
+
+body{
+    background-color: rgb(207, 215, 217);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border: 5px solid black;
+    margin: 40px;
+    padding: 100px;
+    
+
+}
+
+nav{
+    background-color:lightgray;
+    padding:10px;
+    overflow: hidden;
+}
+
+nav a{
+    padding: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+}
+
+nav a:hover{
+    background-color: #ccc
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
